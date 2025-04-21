@@ -1,2 +1,3 @@
-# Global-Electronics-Retailers-Analysis
+# Global-Electronics Analysis
+
 A case study 
